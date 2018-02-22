@@ -1,5 +1,6 @@
- ---
- githubHandle: JasonEtco
- latitude: YOUR_LATITUDE
- longitude: YOUR_LONGITUDE
- ---
+---
+githubHandle: JasonEtco
+latitude: YOUR_LATITUDE
+longitude: YOUR_LONGITUDE
+location: "Your City"
+---
